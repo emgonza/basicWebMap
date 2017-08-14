@@ -3,4 +3,4 @@ Incluimos en este repositorio todo el material utilizado durante la charla "Herr
 
 Encontraremos la presentacion de la misma (basicWebMap.pdf), y los fuentes del "Demostrador funcional" explicado en la misma.
 Recuerden levantar el servidor HHTP, mediante el comando "python cors_server.py". 
-Si desean cambiar el puerto por defecto ejecutar "python cors_server.py <<otroPuerto>>" (estar atento para los que utilizan windows, que a veces el puerto por defecto esta bloqueado.)
+Si desean cambiar el puerto por defecto ejecutar "python cors_server.py otroPuerto" (estar atento para los que utilizan windows, que a veces el puerto por defecto esta bloqueado.)
